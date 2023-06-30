@@ -4,14 +4,14 @@ markdown: kramdown
 # URL of the Site
 url: "https://taogaparis.github.io"
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: "" 
+baseurl: "newsite" 
 
 # Title of the Site
 title: Tao Ga Paris Kung Fu
 # Description of the Site
 description: Le Tao Ga est un style de kung fu originaire du sud de la chine
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /newsite/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
