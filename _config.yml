@@ -9,16 +9,16 @@ baseurl: "/newsite"
 # Title of the Site
 title: Tao Ga Paris Kung Fu
 # Description of the Site
-description: Le Tao Ga est un style de kung fu originaire du sud de la chine
+description: Originaire du sud de la chine, ce style de Kung Fu est adapté pour ceux qui recherche du self défense comme un style traditionnel
 # URL of Image of the Site
-site-image: /newsite/assets/images/meta.jpg
+site-image: /newsite/assets/images/logo.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Kung-Fu, Paris, Jardin du luxembourg, Self-Defense, Combat, boxe, Wushu
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: /newsite/assets/images/logo.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: /newsite/assets/images/armel_leslie.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -41,13 +41,28 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Leslie Mow
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /newsite/assets/images/leslie.jpg
+history: "
+Le kung-fu <b>\"TAO GA\"</b> est une variante de la discipline <b>\"Sil Lum Fut GA Kuen\"</b> enseigné par la Gee Yung Chinese Physical Culture Association à Hawaii.
+ <br> <br> 
+Son fondateur et Grand Maître, <b>Lum Tai Yung</b>. Il a enseigné cette variante à maitre <b>maître Andrew Lum</b> au sein de l'Académie des Arts Martiaux Chinois d'Hawaï.
+<br> <br> 
+Le système de Tao ga du Kung Fu est basé sur la vitesse d'attaque et le controle de l'adversaire. La vitesse est obtenue par l'absence de contraction musculaire et par une profonde relaxation. Cela permet aux coups d'etre rapide, sans retenu et lourd.
+<br> <br> 
+La capacité à contrôler l'adversaire est un autre élément de Tao ga. Le contrôle est obtenu grâce à une observation fine de ses mouvement et permet d'anticiper l'attaque ou de contre-attaquer. Le contrôle prend de nombreuses formes. 
+<br> <br> 
+Lorsque l'on bloque une attaque cela donne au pratiquant du Tao Ga une courte fenetre de tir pour frapper et engendrer une reaction previsible sur le corps de l'adversaire. Savoir d'où proviendra l'attaque suivante permet une contre-attaque ailleurs.
+<br> <br>
+Frapper l'adversaire le contraint à réagir, tourner, se baisser d'une certaine manière."
+  
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: "Leslie Mow est un maître qui a appris l'art Tao Ga aupres de Maitre Andrew Lum pendant plus de 45 ans à Hawaii, l'endroit où il est né. \n
+Il a aussi appris le Tai chi Yang aupres de maitre Tung pendant de nombreuses années. Ce qui en fait un maître avisé et tres complet. \n
+ En plus des mains vides, il enseigne l'utilisation d'armes La canne courbe, le baton court et mi long. "
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://www.facebook.com/groups/462873997206634
 
 # SASS
 sass:
