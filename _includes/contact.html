@@ -27,8 +27,11 @@
                 You Can find me here
             </h3>
             <div class="column is-full is-size-3">
-                {% unless site.facebook_username == %}
-                <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
+                {% unless site.facebook_group == %}
+                <a href="http://www.facebook.com/{{site.facebook_group}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
+                {% endunless %}
+                {% unless site.linktree == %}
+                <a href="{{site.linktree}}" target="_blank" class="has-text-black"><i class="fab fa-table-list"></i></a>
                 {% endunless %}
                 {% unless site.twitter_username == %}
                 <a href="https://twitter.com/intent/user?screen_name={{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i></a>

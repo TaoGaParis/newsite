@@ -24,22 +24,22 @@ heroimage: /newsite/assets/images/armel_leslie.jpg
 # If you don't want to use any icon, you can leave them blank.
 email: taogafrance@gmail.com
 linktree: https://linktr.ee/taogakungfu
-facebook_username: groups/TaoGa/
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+facebook_group: groups/TaoGa/
+twitter_username:
+instagram_username: tao_ga_kung_fu_paris 
+linkedin_username: 
+github_username: 
+youtube_channel_id: 
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: 
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: 
 
 
 # Name of the Author
@@ -60,11 +60,11 @@ Lorsque l'on bloque une attaque cela donne au pratiquant du Tao Ga une courte fe
 Frapper l'adversaire le contraint à réagir, tourner, se baisser d'une certaine manière."
   
 # 60 Words About the Author
-author-about: "Leslie Mow est un maître qui a appris l'art Tao Ga aupres de Maitre Andrew Lum pendant plus de 45 ans à Hawaii, l'endroit où il est né. \n
-Il a aussi appris le Tai chi Yang aupres de maitre Tung pendant de nombreuses années. Ce qui en fait un maître avisé et tres complet. \n
- En plus des mains vides, il enseigne l'utilisation d'armes La canne courbe, le baton court et mi long. "
+author-about: "Leslie Mow est un maître qui a appris l'art Tao Ga aupres de Maitre Andrew Lum pendant plus de 45 ans à Hawaii, l'endroit où il est né. <br>
+Il a aussi appris le Tai chi Yang aupres de maitre Tung pendant de nombreuses années. Ce qui en fait un maître avisé et tres complet. <br>
+ En plus des mains vides, il enseigne l'utilisation d'armes; la canne courbe, le baton court et mi long. "
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://www.facebook.com/groups/462873997206634
+author-url: https://linktr.ee/taogakungfu
 
 # SASS
 sass:
