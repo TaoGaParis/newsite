@@ -18,6 +18,9 @@ tags:
 - Gee yung Academy
 ---
 
+Andrew Lum est un imminent pratiquant d'art martiaux d'hawaii. Il a marqué l'histoire dans le champs du kung fu et du tai chi
+
+--- 
 
 Andrew Lum est née à Hawaii, dans la communauté chinoise et Lum Tai Yung est un des amis de la famille. 
 Dans sa jeune enfance, Andrew était chétif et souvent malade. 
