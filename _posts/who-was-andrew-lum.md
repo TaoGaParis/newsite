@@ -2,15 +2,52 @@
 title: Who was Andrew Lum?
 layout: post
 post-image: "/assets/img/andrewlum.png"
-description: Jekyll is a static site generator. You give it text written in your favorite
-  markup language and it uses layouts to create a static website.
+description: Andrew Lum était le maitre de Leslie Mow et de beaucoups d'autres.
 tags:
-- jekyll
-- informative
-- technology
+- Tung Fu-ling
+- Tung Hu-Ling
+- Dong Fu-Ling
+- Leslie Mow
+- Tao Ga
+- Arthur Yau Sun Lee
+- Sil Lum Fut Ga 
+- Kung fu
+- Wushu
+- Lum Tai Yung
+- Lum Dai Yung
+- Gee yung Academy
 ---
 
-Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don't know what GitHub Pages are you can visit on click [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
+
+Andrew Lum est née à Hawaii, dans la communauté chinoise et Lum Tai Yung est un des amis de la famille. 
+Dans sa jeune enfance, Andrew était chétif et souvent malade. 
+
+Un soir que Lum Tai Yung mange à la maison des parents de Andrew, la condition de Andrew est abordé. Lum Tai yung aurait alors proposé que l'enfant vienne à sa salle de Gym pour se renforcer, ce que Andrew fera.
+
+Andrew Lum commencera alors son apprentissage des Arts Martiaux au sein de la Gee yung Academy. 
+Lum Tai Yung avait pour habitude d'enseigner son art martial en concordance avec la condition et la personnalité de l'apprenant.
+Il y apprend le Tao Ga, une variante du Sil Lum (shaolin) Fut Ga que Lum Tai Yung enseigne en parallele à Arthur Yau Sun Lee.
+
+ 
+#Aujourd'hui on ne sait pas pourquoi Andrew Lum à appris le Tao Ga plutot que le Fut Ga. Peut etre était-ce à cause de la condition chetive de l'enfant et que le Tao Ga repose moins sur la force du pratiquant que le Fut Ga.    
+#A savoir que la lignée d'Arthur Lee dans le Fut Ga revendique aujourd'hui la même histoire d'enfant malade que Lum Tai yung encourage à venir se renforcer au sein de la Gee Yung Fut Ga Academy 
+
+Andrew Lum apprend ainsi le Tao Ga pendant plusieurs année, jusqu'a la mort de Lum Tai Yung, le 10 juin 1957
+
+Par la suite Andrew Lum enseigne à son tour le Tao Ga à hawaii pendant toute sa vie.
+
+Il part aussi à la recherche des racines du Tao Ga en chine à de nombreuse reprise. Il ne trouvera jamais mais rencontrera sur place Tung Fu-Ling avec qui il se liera d'amitié. 
+Tung Fu-Ling etait un grand pratiquant de Tai chi Yang. Cette amitié à beaucoup rapproché le Tao Ga du Tai chi Yang puisque Andrew a incorporé dans son enseignement quelques pratique et mouvement du Tai chi yang. 
+Tung finira par venir s'installer à Hawaii au coté de Andrew Lum. C'est d'ailleurs dans l'ecole de Tung que Leslie Mow commença son histoire avec les arts martiaux. Et qu'il finira par rencontrer des élèves d'Andrew Lum et qu'il cherchera à y apprendre le Tao Ga.
+
+Les deux amis ont meme composé ensemble 3 sets de coups qui mixent le tai chi yang et le tao ga. 
+
+
+
+
+
+
+
 ###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
 
 > ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
