@@ -1,5 +1,5 @@
 ---
-title: Who was Andrew Lum?
+title: Qui était Andrew Lum?
 layout: post
 post-image: "/assets/images/andrewlum.png"
 description: Andrew Lum était le maitre de Leslie Mow et de beaucoups d'autres.
