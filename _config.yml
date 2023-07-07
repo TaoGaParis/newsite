@@ -75,6 +75,7 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+  - plugins/no_date
 
 # Permalink
 permalink: "blog/:title"
