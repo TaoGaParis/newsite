@@ -11,14 +11,14 @@ title: Tao Ga Paris Kung Fu
 # Description of the Site
 description: Originaire du sud de la chine, ce style de Kung Fu est adapté pour ceux qui recherche du self défense comme un style traditionnel
 # URL of Image of the Site
-site-image: /newsite/assets/images/logo.jpg
+site-image: /assets/images/logo.jpg
 # Keywords of the Site
 site-keywords: Kung-Fu, Paris, Jardin du luxembourg, Self-Defense, Combat, boxe, Wushu
 # URL for the Image of custom Favicon
-favicon-url: /newsite/assets/images/logo.ico
+favicon-url: /assets/images/logo.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /assets/images/armel_leslie.jpg
+heroimage: /images/armel_leslie.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
