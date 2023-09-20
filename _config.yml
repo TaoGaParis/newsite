@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: "https://taogaparis.github.io"
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: "/newsite"
+baseurl: "/"
 
 # Title of the Site
 title: Tao Ga Paris Kung Fu
@@ -18,7 +18,7 @@ site-keywords: Kung-Fu, Paris, Jardin du luxembourg, Self-Defense, Combat, boxe,
 favicon-url: /newsite/assets/images/logo.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /newsite/assets/images/armel_leslie.jpg
+heroimage: /assets/images/armel_leslie.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -45,7 +45,7 @@ disqus-shortname:
 # Name of the Author
 author-name: Leslie Mow
 # URL for the Image of the Author
-author-image: /newsite/assets/images/leslie.jpg
+author-image: /assets/images/leslie.jpg
 history: "
 Le kung-fu <b>\"TAO GA\"</b> est une variante de la discipline <b>\"Sil Lum Fut GA Kuen\"</b> enseigné par la Gee Yung Chinese Physical Culture Association à Hawaii.
  <br> <br> 
