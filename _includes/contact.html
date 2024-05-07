@@ -1,6 +1,8 @@
 <section class="hero is-fullheight has-text-centered" id="contact">
     <div class="hero-body">
         <div class="container">
+		<iframe src="https://embed.styledcalendar.com/#8E1dvfbu5nFjeKZY0ZxU" title="Styled Calendar" class="styled-calendar-container" style="width: 100%; border: none;" data-cy="calendar-embed-iframe"></iframe>
+<script async type="module" src="https://embed.styledcalendar.com/assets/parent-window.js"></script>
             {% unless site.facebook_username == %}
             <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
@@ -12,7 +14,7 @@
             <a id="contact-button" href="mailto:{{site.email}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fas fa-envelope"></i>Send me an Email
+                <i class="fas fa-envelope"></i>Envoyez moi un mail
             </a>
             {% endunless %}
             {% unless site.twitter_username == %}
@@ -22,16 +24,21 @@
                 <i class="fab fa-twitter"></i>Tweet me on Twitter
             </a>
             {% endunless %}
-            <hr>
+            <a id="contact-button" href="mailto:{{site.email}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+		    <i class="fas fa-user-plus"></i>Formule d'abonnement
+            </a>
+
             <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
-                You Can find me here
+                Retrouvez nous ici
             </h3>
             <div class="column is-full is-size-3">
                 {% unless site.facebook_group == %}
                 <a href="http://www.facebook.com/{{site.facebook_group}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
                 {% endunless %}
                 {% unless site.linktree == %}
-                <a href="{{site.linktree}}" target="_blank" class="has-text-black"><i class="fab fa-table-list"></i></a>
+                <a href="{{site.linktree}}" target="_blank" class="has-text-black"><i class="fas fa-list"></i></a>
                 {% endunless %}
                 {% unless site.twitter_username == %}
                 <a href="https://twitter.com/intent/user?screen_name={{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i></a>
