@@ -3,26 +3,21 @@
         <div class="container">
 		<iframe src="https://embed.styledcalendar.com/#8E1dvfbu5nFjeKZY0ZxU" title="Styled Calendar" class="styled-calendar-container" style="width: 100%; border: none;" data-cy="calendar-embed-iframe"></iframe>
 <script async type="module" src="https://embed.styledcalendar.com/assets/parent-window.js"></script>
+<div class="columns">     
             {% unless site.facebook_username == %}
             <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                class="button is-rounded is-centered is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column"
                 target="_blank">
-                <i class="fab fa-facebook-messenger"></i>Ping me on Messenger
+                <i class="lni lni-facebook-messenger"></i></i>Ping me on Messenger
             </a>
             {% endunless %}
             {% unless site.email == %}
             <a id="contact-button" href="mailto:{{site.email}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                class="button is-rounded is-centered is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column"
                 target="_blank">
-                <i class="fas fa-envelope"></i>Envoyez moi un mail
+                <i class="lni lni-envelope-1"></i>Envoyez un mail
             </a>
-            {% endunless %}
-            {% unless site.twitter_username == %}
-            <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fab fa-twitter"></i>Tweet me on Twitter
-            </a>
+            </div>
             {% endunless %}
             <a id="contact-button" href="https://raw.githubusercontent.com/TaoGaParis/newsite/master/formulaire_inscription.pdf"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
@@ -30,21 +25,25 @@
 		    <i class="fas fa-user-plus"></i>Formule d'abonnement
             </a>
 
-            <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
-                Retrouvez nous ici
-            </h3>
+            <a id="contact-button" href="https://raw.githubusercontent.com/TaoGaParis/TaoGaKungFuParis/20cd07503080e727e6802e3c191abf3a36f64922/plan.svg" class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths" target="_blank"> 
+                Nous trouver au jardin du Luxembourg
+                </a>
             <div class="column is-full is-size-3">
                 {% unless site.facebook_group == %}
-                <a href="http://www.facebook.com/{{site.facebook_group}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
+                <a href="http://www.facebook.com/{{site.facebook_group}}" target="_blank" class="has-text-black">
+<i class="lni lni-facebook"></i>
+                </a>
                 {% endunless %}
                 {% unless site.linktree == %}
-                <a href="{{site.linktree}}" target="_blank" class="has-text-black"><i class="fas fa-list"></i></a>
+                <a href="{{site.linktree}}" target="_blank" class="has-text-black"><i class="lni lni-link-2-angular-right"></i></a>
                 {% endunless %}
                 {% unless site.twitter_username == %}
                 <a href="https://twitter.com/intent/user?screen_name={{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i></a>
                 {% endunless %}
                 {% unless site.instagram_username ==  %}
-                <a href="http://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black"><i class="fab fa-instagram"></i></a>
+                <a href="http://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black">
+                <i class="lni lni-instagram"></i>
+                </a>
                 {% endunless %}
                 {% unless site.linkedin_username ==  %}
                 <a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black"><i class="fab fa-linkedin"></i></a>
